@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2025-11-24T11:14:46Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "buudi",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "LkbKLK7B5yJhS6WAFrqq3wnbNDLAhksI5o99K/J2bc6LkRpKW1XGkSxRGSCzVMbuB1JQs4tal6INeYRmA6hA4fNTEHAfwZIE4y0m2SOo0l0r9YQU2Fua48KM00MWeAdF0tZM3\u002BrhJj0b2kXCAyxllqFrW0cggnu0YpTEk2UNQCp8FjnDc1QScVNXKf5yHr9E7do1Ac/YJDvQaJb3RuzD3c7yOQ44I0M4\u002B\u002BhJKUsxDEw8wKrYwmoKSXIHpLj2e/wOsP9pJ7lkLs6yTOLlL105yrrKh7THKq6VV7gLKzlxWf2yOSK/Xml6w4RRRWRiobfGJPGTakNkrFnwbiHdGYx1wA=="
+}
