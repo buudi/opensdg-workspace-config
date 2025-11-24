@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2025-11-24T11:17:59Z",
+  "repositories": [
+    {
+      "url": "https://github.com/buudi/png-data",
+      "type": "data",
+      "addedAt": "2025-11-24T11:17:59Z"
+    },
+    {
+      "url": "https://github.com/buudi/png-site",
+      "type": "site",
+      "addedAt": "2025-11-24T11:17:59Z"
+    }
+  ]
+}
